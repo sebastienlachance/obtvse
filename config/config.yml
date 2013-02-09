@@ -1,10 +1,9 @@
 ---
 title:               Sebastien Lachance
-tagline:             Clever tagline.
+tagline:             Web developer and Gamer
 login:               <%= ENV["obtvse_login"] ? ENV["obtvse_login"] : "sebastienlachance" %>
 password:            <%= ENV["obtvse_password"] ? ENV["obtvse_password"] : "qwerty123!" %>
 name:                Sebastien Lachance
 twitter:             slachance
 github:              sebastienlachance
-email:               address@example.cbbom
 google_analytics_id: YOUR_GA_ID
