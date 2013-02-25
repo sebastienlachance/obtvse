@@ -1,6 +1,6 @@
 ---
 title:               Sebastien Lachance
-tagline:             Web developer and Gamer
+tagline:             Web developer and Gamer. <br/><br />Like to make things simpler
 login:               <%= ENV["obtvse_login"] ? ENV["obtvse_login"] : "sebastienlachance" %>
 password:            <%= ENV["obtvse_password"] ? ENV["obtvse_password"] : "qwerty123!" %>
 name:                Sebastien Lachance
